@@ -1,0 +1,32 @@
+Custom Studies
+    XYZ Company
+        Business Unit A
+            Division A1
+            Division A2
+                Service A2a
+                    Section A2a.1
+                        Section A2a.1.1
+                            Section A2a.1.1.1
+                    Section A2a.2
+        Business Unit B
+            Division B1
+                Department B1a
+                Department B1b
+                    Section B1b.1
+                        Section B1b.1.1
+                            Section B1b.1.1.1
+                                Section B1b.1.1.1.1
+                            Section B1b.1.1.2
+                                Section B1b.1.1.2.1
+                                Section B1b.1.1.2.2
+                                    Section B1b.1.1.2.2.1
+                                Section B1b.1.1.2.3
+                                Section B1b.1.1.2.4
+                                    Section B1b.1.1.2.4.1
+                                Section B1b.1.1.2.5
+                                Section B1b.1.1.2.6
+                    Section B1b.2
+                Department B1c
+            Division B2
+                Department B2a
+                Department B2b
